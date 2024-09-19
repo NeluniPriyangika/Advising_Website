@@ -1,0 +1,11 @@
+.registermain{
+    background:  url("../../assets/registerpageBG.jpg");
+    min-height: 150vh;
+    background-size: cover;
+    background-position:top;
+}
+
+.registerlogoimage{
+    height: 20px;
+    width: 20px;
+}
